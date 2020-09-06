@@ -38,9 +38,10 @@ cd "diretorio de sua preferencia"
 git clone https://github.com/paolapagotto/minhaCalculadoraiOS.git
 
 
-Contribuições
+Contribuições:
 
-http://github.com - automatic!
-[Professora Jéssica Santana - Digital House Br](https://github.com/jeafsantana)
-[Professor Narlei - Digital House Br](https://github.com/narlei)
-[Cesar Tavares](https://github.com/cetava)
+ * [Professora Jéssica Santana - Digital House Br](https://github.com/jeafsantana)
+ * [Professor Narlei - Digital House Br](https://github.com/narlei)
+ * [Cesar Tavares](https://github.com/cetava)
+ 
+ 

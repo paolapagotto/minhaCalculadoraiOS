@@ -54,7 +54,7 @@ Para esta atividade, deverá ser apresentado a solução desenvolvida para a tur
  - [ ] background
 
 
-Contribuições:
+#### Contribuições:
 
  * [Professora Jéssica Santana - Digital House Br](https://github.com/jeafsantana)
  * [Professor Narlei - Digital House Br](https://github.com/narlei)

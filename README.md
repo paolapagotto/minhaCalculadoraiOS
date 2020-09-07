@@ -39,6 +39,17 @@ Desenvolvimento:
 
   * git clone https://github.com/paolapagotto/minhaCalculadoraiOS.git
 
+A calculadora: 
+
+
+<img width="390" alt="Simulador iPhone - Calculadora" src="https://user-images.githubusercontent.com/55468847/92397741-3f823700-f11f-11ea-987e-6f7a0de74d50.png">
+
+ - [X] botões arredondados
+
+ - [ ] responsividade entre aparelhos de diferentes dimensões
+
+ - [ ] background
+
 
 Contribuições:
 

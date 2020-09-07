@@ -2,7 +2,7 @@
 
 ## Este é um projeto que consiste na criação de uma calculadora para iOS, realizado no curso de Desenvolvimento iOS, do Santander Mobile Coders iOS 2020.
 
-### Esta atividade consiste em desenvolver uma calculadora em iOS. Abaixo estão descritas as etapas necessárias para o desenvolvimento.
+###  Projeto de calculadora básica em iOS. Abaixo estão descritas as etapas necessárias para o desenvolvimento.
 
 Para esta atividade, deverá ser apresentado a solução desenvolvida para a turma e apontar os desafios encontrados.
 

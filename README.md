@@ -1,8 +1,9 @@
 # minhaCalculadoraiOS
 
-Este é um projeto que consiste na criação de uma calculadora para iOS, realizado no curso de Desenvolvimento iOS, do Santander Coders Mobile iOS 2020.
+## Este é um projeto que consiste na criação de uma calculadora para iOS, realizado no curso de Desenvolvimento iOS, do Santander Coders Mobile iOS 2020.
 
-Esta atividade consiste em desenvolver uma calculadora em iOS. Abaixo estão descritas as etapas necessárias para o desenvolvimento.
+### Esta atividade consiste em desenvolver uma calculadora em iOS. Abaixo estão descritas as etapas necessárias para o desenvolvimento.
+
 Para esta atividade, deverá ser apresentado a solução desenvolvida para a turma e apontar os desafios encontrados.
 
 Requisitos de Layout:
@@ -30,12 +31,13 @@ Requisitos de Funcionalidades-
 
 Getting started:
 
-Para começar é necessário ter instalado o XCode. Este projeto foi realizado no XCode 10.
+  * Para começar é necessário ter instalado o XCode. Este projeto foi realizado no XCode 10.
 
 Desenvolvimento:
 
-cd "diretorio de sua preferencia"
-git clone https://github.com/paolapagotto/minhaCalculadoraiOS.git
+  * cd "diretorio de sua preferencia"
+
+  * git clone https://github.com/paolapagotto/minhaCalculadoraiOS.git
 
 
 Contribuições:

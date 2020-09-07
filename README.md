@@ -11,7 +11,7 @@ Para esta atividade, deverá ser apresentado a solução desenvolvida para a tur
   * Composição da tela: 
 
       * 10 botões numéricos;
-      * 05 botões de ação (operçãos básicas matemáticas); 
+      * 05 botões de ação (operçõess básicas matemáticas); 
       * 01 campo de texto.
       
   * Utilizar como inspiração o layout de calculadora da Apple;

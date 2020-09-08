@@ -11,7 +11,7 @@ Para esta atividade, deverá ser apresentado a solução desenvolvida para a tur
   * Composição da tela: 
 
       * 10 botões numéricos;
-      * 05 botões de ação (operções básicas matemáticas); 
+      * 05 botões de ação (operações básicas matemáticas); 
       * 01 campo de texto.
       
   * Utilizar como inspiração o layout de calculadora da Apple;
@@ -37,9 +37,10 @@ Para esta atividade, deverá ser apresentado a solução desenvolvida para a tur
   
   No terminal..
   
-  * cd "diretorio de sua preferência"
-
-  * git clone https://github.com/paolapagotto/minhaCalculadoraiOS.git
+  `<cd "diretorio de sua preferência">`
+  
+  `<git clone https://github.com/paolapagotto/minhaCalculadoraiOS.git">`
+  
 
 
 ### A calculadora: 

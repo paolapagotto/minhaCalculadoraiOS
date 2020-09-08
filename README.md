@@ -37,9 +37,9 @@ Para esta atividade, deverá ser apresentado a solução desenvolvida para a tur
   
   No terminal..
   
-  `<cd "diretorio de sua preferência">`
+  `cd "diretorio de sua preferência"`
   
-  `<git clone https://github.com/paolapagotto/minhaCalculadoraiOS.git">`
+  `git clone https://github.com/paolapagotto/minhaCalculadoraiOS.git"`
   
 
 
